@@ -1,0 +1,228 @@
+,Material,Hydrodynamic diameter,Shape,Surface chemistry,Zeta potential,Tumor model and animal,Tumore stage,Number of time points,AUC tumor [%IDåáh/g],Tumore uptake [%ID/g],Delivery efficiency [%ID],Ref.
+10,Gold,"26 38 x 10 (TEM)","AR 3.8 Rods",PEG_5kDa,-18,"Human cervical carcinoma (HeLa) s.c. inoculated toflank of mice","Volume: ~100 mmå_ Mass: ~0.1 g","3 (168 h)",2440.8,16.4,2,1
+11,Gold,3,Spherical,"Glutathione-coated",-4,"Murine cervical carcinoma (U14) s.c. inoculated to right shoulder of mice (*)","Volume: ~110 mmå_ Mass: ~0.1 g","8 (72 h)",378.1,5.3,0.7,2
+0,Gold,6,Spherical,"Glutathione/PEG_2kDa coated; Folic acid",-5,"Human gastric cancer (MGC-803) s.c. inoculated to right flank of mice","Volume: ~175 mmå_  Mass: ~0.2 g","6  (168 h)",1.4,"<0.1 (1E-2)","<0.1 (2E-3)",3
+1,,42,,"PEG_5kDa and EGF peptide",-5,"Rat glioma (9L.E29) s.c. inoculated to flank of mice","Volume ~251 mmå_  Mass: ~0.3 g",3,567.8,3.4,1,
+2,Gold,38,Spherical,PEG_5kDa,-5,,,(168 h),584.8,3.5,1.1,4
+3,Gold,68,Star,"PEG_2kDa and aptamer AS1411",-9,"Metastatic human breast cancer (MDA-MB-231) s.c. inoculated to right flank of mice","Volume: ~500 mmå_  Mass: ~0.6 g","3  (72 h)",224.4,3.1,2,5
+4,Gold,46,Spherical,"PEG_5kDa and PEG_10kDa-",-7,"Human melanoma (MDA-MB-435) s.c.",Volume:,6,890,18.5,14,6
+0,,64,,"Alexa Fluor 750",-15,"inoculated to hind flank of mice","~630 mmå_  Mass: ~0.8 g",(48 h),680,14.2,11,
+1,,104,,,-10,,,,520,10.8,8.2,
+2,,166,,,-6,,,,241,5,3.8,
+3,,50,,,-1,,,,1200,25,18.9,
+4,,60,,"PEG_5kDa and transferrin",-11,,,,980,20,15.1,
+5,,100,,"PEG_10kDa-Alexa Fluor 750",-9,,,,1010,21,15.9,
+6,,176,,,-5,,,,400,8.3,6.3,
+7,Gold,7,Spherical,"Human serum albumin","Not reported","Human glioblastoma (U-87MG) s.c. inoculated to front flank of mice","Volume: ~75 mmå_  Mass: ~0.1 g","5  (24 h)",303.5,12.6,1.1,7
+0,Gold,27 (TEM),Spherical,"Choline and PEI","Not reported","Human prostate cancer (DU145) s.c. inoculated to flank of mice","Volume: ~300 mmå_  Mass: ~0.4 g","5  (24 h)",4.2,0.2,0.1,8
+1,,17,,"Trimethylammonium and sulfonic groups",-10,"Human carcinoma (KB) s.c. inoculated to right rear flank of mice","Volume: ~100 mmå_  Mass: ~0.1 g",3,670.8,9.3,1.1,
+2,Gold,31,Spherical,PEG_2kDa,-11,,,(72 h),318,4.4,0.5,9
+3,,18,,PEG_2kDa,25,"Human glioblastoma (U-87MG) s.c. inoculated to right front flank or right hind flank of mice","Volume: ~300 mmå_  Mass: ~0.4 g",,79.5,1.7,0.3,
+4,Gold,21,Tripod,PEG_3.4kDa,25,,,4,98.4,2.1,0.7,10
+5,,26,,PEG_6kDa,22,,,(48 h),128.7,2.7,1,
+6,,24,,RGD,-21,,,,359,7.5,2.7,
+0,Gold,"30 (14 x 45) TEM","AR 3.2 Rods",PEG_5kDa,~0,"Murine colon carcinoma (CT26.wt) s.c. inoculated to flank of mice","Volume: ~120 mmå_  Mass: ~0.1 g","3  (48 h)",15.7,0.3,0.1,11
+1,,70,Spherical,,~0,"Murine mammary carcinoma (EMT-6) s.c. inoculated to right flank of mice","Volume: ~100 mmå_  Mass: ~0.1 g",,349.2,14.6,1.8,
+2,Gold,"125 92 x7 (TEM)",Disk,PEG_5kDa,,,,3,93.6,3.9,0.5,12
+3,,"75 39 x 9","AR 4.3 Rods",,,,,(24 h),27.5,1.1,1.1,
+4,,125,"Cubic nanocages",,,,,,124.9,5.2,0.6,
+0,Gold,6,Spherical,PEG_1kDa,~0,"Human breast cancer (MCF-7) orthotopically inoculated to mammary fat pad of mice","Volume: ~180 mmå_  Mass: ~0.2 g","4  (48 h)",275.2,5.7,1.2,13
+1,Gold,31,Spherical,"Plasma-polymerized allylamine and cetuximab antibody","Not reported","Human epithelial carcinoma (A431) s.c. inoculated to flank of mice","Volume: ~300 mmå_  Mass: ~0.4 g","6  (168 h)",618.2,3.7,1.3,14
+2,,96,,PEG_5kDa,19,"Murine mammary carcinoma (EMT-6) s.c. inoculated to hind flank of mice","Volume: ~290 mmå_  Mass: ~0.4g",3,31,1.3,0.5,
+3,Gold,64,Cubic,PEG_5kDa,10,,,(24 h),167.4,7,2.4,15
+0,,60,,PEG_5kDa,-11,"Human prostate cancer (LNCaP) s.c. inoculated to hind limb of mice","Volume: ~270 mmå_  Mass: ~0.3g",,2.5,0.1,"<0.1 (3E-2)",
+1,Gold,72,Spherical,"PEG_5kDa and TNF-ë± protein",-3,,,3,52.5,2.2,0.7,16
+2,,67,,PEG_5kDa,-3,,,(24h),61.1,2.6,0.8,
+3,,63,,"Carboxy-PEG_5kDa",-27,,,,57.2,2.4,0.8,
+4,Gold,63,Spherical,PEG_5kDa,"Not reported (neutral ZP is assumed)","Lymphoblastoid (LCL) tumour cells s.c. inoculated to right flanks of mice","Volume: ~63 mmå_  Mass: ~75mg","4  (48 h)",727.2,15.2,0.2,17
+0,,,,PEG_5kDa,-10,,"per mouse)  Mass: ~0.2 g (total tumour mass)",,342.8,7.1,1.3,
+1,,"45 x 10 (TEM)","AR 4.5 Rods",PEG_5kDa,1,"Human ovarian cancer (A2780) orthotopically inoculated to left ovarian bursa of mice","Volume: ~1.8 cmå_  Mass: ~2.1 g","5  (168 h)","218.6 26.3","1.3 0.2","2.7 0.3",19
+2,Gold,89,Spherical,PEG_5kDa,-27,,,,,,,
+3,,22,,PEG_2kDa,,"Human melanoma (MDA-MB-435) orthotopically inoculated to back of mice","Volume: ~1 cmå_  Mass: ~1.2 g",4,0.3,"<0.1 (1E-2)","<0.1 (1E-2)",
+4,Gold,40,Spherical,PEG_2kDa,~0,,,(24 h),15.8,0.7,0.8,20
+5,,61,,PEG_5kDa,,,,,26.5,1.1,1.3,
+0,,83,,PEG_10kDa,,,,,20.4,0.9,1,
+1,,99,,PEG_10kDa,,,,,17.9,0.8,0.9,
+2,"Gold iron oxide heterostructure",24,Spherical,"PEG_2kDa and anti-EGFR small Affibody protein",-29,"Human epithelical carcinoma (A431) subcutaneously inoculated to right shoulders of mice","Volume: ~220 mmå_  Mass: ~0.3 g","5  (48 h)",179.2,3.7,1,21
+3,Iron oxide,"(16) TEM",Spherical,"Silica coating, PEG, Trastuzumab antibody","Not reported","Human breast cancer (SkBr3) s.c. inoculated to flank of mice","Volume: ~65 mmå_  Mass: ~0.1 g","3  (48 h)",421.8,8.8,0.7,22
+0,Iron oxide,140,Spherical,"Starch shell modified with PEG_1kDa and PSMA antigen",-12,"PSMA+ PIP and PSMA- flu s.c. inoculated to opposite front flanks of mice","Volume: ~140 mmå_  Mass: ~0.2 g","5  (96 h)",275.5,2.9,0.5,23(+)
+1,Iron oxide,161,Spherical,Biotin,-6,"Human glioblastoma (U-87MG) s.c. inoculated to right thigh of mice","Volume: ~130 mmå_  Mass: ~0.2 g","4  (24h)",14.4,0.6,0.1,24
+2,,49,,Dextran,-7,"Human nasopharyngeal epidermal carcinoma (KB) s.c. inoculated to right hind leg of mice","Volume: ~1.6 cmå_  Mass: ~1.9 g",3,4.1,0.2,"<0.1 (3E-2)",
+3,Iron oxide,54,Spherical,Folic acid,-9,,,(24h),13.4,0.6,0.1,25
+0,,68,,PEG_5kDa,"Not reported","Human glioblastoma (U-87MG) s.c. inoculated to front flank of mice","Volume: ~180 mmå_  Mass: ~0.2 g",5,123.4,2.6,0.6,
+1,Iron oxide,Not reported,Spherical,"PEG_5kDa and cRGD peptide","Not reported",,,(48 h),258.3,5.4,1.2,26
+2,Iron oxide,51,Spherical,"Human serum albumin","Not reported","Murine breast cancer (4T1) s.c. inoculated to right flank of mice","Volume: ~500 mmå_  Mass: ~0.6 g","3  (24 h)",48.9,2,1.2,27
+3,,226,,"PEG_5kDa-cRGDyK-peptide",-4,"Human glioblastoma (U-87MG) s.c. inoculated to front flank of mice","Volume: ~125 mmå_  Mass: ~0.2 g",4,108.9,6.1,1.3,
+4,Silica,220,Spherical,PEG_5kDa,-4,,,(18 h),63.5,3.5,0.8,28
+0,Silica,75,Spherical,Polypyrrole,-10,"Murine breast cancer (4T1) s.c. inoculated to right rear flank of mice","Volume: ~65 mmå_  Mass: ~0.1 g","3  (24 h)",116.6,4.9,0.4,29
+1,,125,,"PEG_5kDa-Maleimide",-11,"Human glioblastoma (U-87MG) s.c. inoculated to front flank of mice","Volume: ~70 mmå_  Mass: ~0.1 g",4,49.6,2.3,0.2,
+2,Silica,129,Spherical,"PEG_5kDa and VEGF  121",-10,,,(22 h),138.5,6.3,0.4,30
+3,,190,,"PEG_5kDa-Maleimide",-5,"Murine breast cancer (4T1) s.c. inoculated to front flank of mice","Volume: ~144 mmå_  Mass: ~0.2 g",4,72.2,3,0.5,
+4,Silica,194,Spherical,"PEG_5kDa and TRC105",-4,,,(24 h),182.7,7.6,1.4,31
+0,,Not reported,,PEG_5kDa,"Not reported","Murine breast cancer (4T1) s.c. inoculated to front flank of mice","Volume: ~144 mmå_  Mass: ~0.2 g",5,95.8,2,0.3,
+1,Silica,175,Spherical,"PEG_5kDa and TRC105(Fab)",-3,,,(48 h),193.9,4,0.7,32
+2,Silica,"7 7",Spherical,PEG_0.5kDa,~0,"Human melanoma (M21) s.c. inoculated to hind legs of mice","Volume: ~200 mmå_","3  (96 h)",33,0.3,0.1,33
+3,,,,"PEG_0.5kDa and cRGDY peptide",-3,,"Mass: ~0.2 g","5  (168 h)",127.8,0.8,0.2,
+4,,168,,"PEG_10kDa and TRC105 antibody",-3,,,6,220.6,4.6,0.8,
+0,,42,"AR 1.4 Rods","Silica and PEG_2kDa",~0,"Murine breast cancer (4T1) s.c. inoculated to right hind leg of mice","Volume: ~500 mmå_  Mass: ~0.6 g",,86.3,1.2,0.7,
+1,Silica-coated,44,"AR 1.4 Rods","Silica , PEG_2kDa, and BSA",-14,,,3,44.5,0.6,0.4,35
+2,gold,20,"AR 4.0 Rods",BSA,-20,,,(72 h),28,0.4,0.2,
+3,,7,Spherical,BSA,-24,,,,57.5,0.8,0.5,
+4,"CuS nanoparticles",155,,"PEG_5kDa-TRC105",-3,"Murine breast cancer (4T1) s.c. inoculated to front flank of mice","Volume: ~144 mmå_  Mass: ~0.2 g",3,120.8,5,0.9,
+5,"encapsulated in mesoporous silica shells",155,Spherical,PEG_5kDa,-3,,,(24 h),24.4,1,0.2,36
+0,"Silica-coated Mn O  3 4",53,Spherical,"PEG_3kDa and AS411 aptamer",-12,"Human cervical carcinoma (HeLa) s.c. inoculated to left flank of mice","Volume: ~700 mmå_  Mass: ~0.8 g","4  (24 h)",105.4,4.4,3.7,37
+1,"NaGdF4",32,Spherical,"PEG_2kDa and (cRGDyk)  2","Not reported","Human glioblastoma (U-87MG) s.c. inoculated to right shoulder region of mice","Volume: ~1.8 cmå_  Mass: ~2.1 g","3  (22 h)",43.6,2,4.2,38
+2,"MoS /Fe O  2 3 4",190,Flake,PEG_0.4kDa,-22,"Human pancreatic carcinoma (PANC-1) s.c. inoculated to backside of mice","Volume: ~100 mmå_  Mass: ~0.1 g","5  (168 h)",308.8,1.8,0.2,39
+0,"Bi Se  2 3",60,Plate,"Poly(vinylpyrrolidine)",-17,"Murine cervical carcinoma (U14) s.c. inoculated to right shoulder of mice (*)","Volume: ~115 mmå_  Mass: ~0.1 g","7  (72 h)",420.2,5.8,0.8,40
+1,"Calcium phosphate",80,Spherical,"PEG_12kDa-b-PAsp",~0,"Murine colon adeno-carcinoma (C-26) s.c. inoculated in mice","Volume: ~100 mmå_  Mass: ~0.1 g","4  (24 h)",74.2,3.1,0.4,41
+2,MnO,100,Spherical,"PEG_2kDa and cRGD peptide",3,"Human adenocarcinomic alveolar basal epithelial (A549) s.c. inoculated to right flank of mice","Volume: ~65 mmå_  Mass: ~0.1 g","3  (4 h)",183.1,45.8,3.6,42
+0,,101,,"PEG_5kDa-TRC105",-11,"Murine breast cancer (4T1) s.c. inoculated to front flank of mice","Volume: ~180 mmå_  Mass: ~0.2 g",4,128.1,5.3,1.2,
+1,Zinc oxide,83,Spherical,PEG_5kDa,-27,,,(24 h),50.3,2.1,0.5,43
+2,"Quantum dots",23,,"DOTA-VEGF protein",,"Human glioblastoma (U-87MG) s.c. inoculated to front flank of mice","Volume: ~350 mmå_  Mass: ~0.4 g",4,79.8,3.3,1.4,
+3,,,Spherical,DOTA,"Not reported",,,-24,17,0.7,0.3,44
+4,,~20,,"DOTA, PEG, and RGD","Not reported","Human glioblastoma (U-87MG) s.c. inoculated to left front flank of mice","Volume: ~350 mmå_  Mass: ~0.4 g",4,73.7,3,1.2,
+5,"Quantum dots",~20,Spherical,"DOTA, PEG","Not reported",,,(25 h),12.5,0.5,0.4,45
+0,hybrids,113,,"DOPC:Chol:DOTAP",54,"inoculated to right flank of mice","~250 mmå_  Mass: ~0.3 g",(72 h),89.9,1.3,0.4,
+1,,108,,"DOPC:Chol:DSPE-PEG_2kDa",-28,,,,145.2,2,0.6,
+2,,110,,"DSPC:Chol:DSPE-PEG_2kDa",-25,,,,274.2,3.8,1.1,
+3,"Hydrogel iron oxide hybrid","20 (core size; TEM)",Spherical,"DOTA, PEG, and ChL6 mAb","Not reported","Human breast adenocarcinoma (HBT3477) s.c. inoculated on both sides of the abdomen of mice","Volume: ~238 mmå_  Mass: ~0.3 g""","4  (96 h)",829.2,8.6,2.5,47
+4,Polymeric,37,Spherical,"PLG160-g-PEG_5kDa",-9,"Lewis lung carcinoma (LLC) s.c. inoculated to right flank of mice","Volume: ~170 mmå_  Mass: ~0.2 g","5  (48 h)",1.3,0.1,"<0.1 (1E-2)",48
+0,,71,,"Hydrazine, PEG_2kDa and folic acid",4,"Murine breast cancer (4T1) s.c. inoculated to right back of mice","Volume: ~50 mmå_  Mass: ~0.06 g",,250.9,10.5,0.6,
+1,Polymeric,87,Spherical,"Carbamate, PEG_2kDa and folic acid",2,,,"5  (24 h)",195.7,8.2,0.5,49
+2,,64,,mPECL,3,,,,92.5,3.9,0.2,
+3,,72,,"Cy7-labeled mPEG_5kDa-b-p-(HPMAm-Bz)",-1,"Human epidermoid carcinoma (A431) s.c. inoculated to right flank of mice","Volume: ~144 mmå_  Mass: ~0.2 g",4,551.9,11.5,2,50
+4,Polymeric,72,Spherical,"Cy7-labeled mPEG_5kDa-b-p-(HPMAm-Bz) and Cy5.5 model drug",-1,,,(48 h),464,9.7,1.7,
+5,Polymeric,268,"AR 4.0 Rods",PEG_5Da,-37,"Non-small cell lung (A549-luc) orthotopically inoculated in mice","Volume: ~200 mmå_",6,2.7,"<0.1 (4E-2)","<0.1 (1E-3)",51
+0,,,,,,"Human ovarian adenocarcinoma (SKOV-3) s.c. inoculated to left flank of mice","Mass: ~0.2 g",(72 h),4,"<0.1 (1E-2)","<0.1 (2E-3)",
+1,Polymeric,22,Spherical,"Pluronic P105, F127",-1,"Human breast cancer (MCF-7/ADR) s.c. inoculated to right hind leg of mice","Volume: ~270 mmå_  Mass: ~0.3 g","7  (48 )",28.7,0.6,0.1,52
+2,,165,,"PTC-b-PGA (vesicle)",-28,"Human renal carcinoma (MRI-H-121) s.c. inoculated in mice","Volume: ~175 mmå_  Mass: ~0.2 g",6,20.1,0.8,0.2,
+3,Polymeric,164,Spherical,"PEG-b-PBLG (micelle)",-6,,,(24 h),18,0.8,0.2,53
+0,Polymeric,124,Spherical,"Poly-ë_-glutamic acid and folic acid",-28,"Hepatocellular carcinoma (HeDe) implanted to left kidney of rats","Volume: ~1.2 cmå_  Mass: ~1.2 g","4  (24 h)",22.6,0.9,1.1,54
+1,,62,,PEG_2kDa,-22,"Human epidermoid carcinoma (A431) s.c. inoculated in mice","Volume: ~30 mmå_  Mass: ~0.04 g",3,0.1,"<0.1 (1E-2)","<0.1 (2E-4)",
+2,Polymeric,100,Spherical,"PEG_2kDa and C225 cetuximab antibody",-30,,,(8 h),0.1,"<0.1 (2E-2)","<0.1 (1E-3)",55
+3,,227,"AR 4.0 Rods",PLGA,-3,"Human ovarian adenocarcinoma (SKOV-3) s.c. inoculated to right flank of mice","Volume: ~150 mmå_  Mass: ~0.2 g",6,257.2,1.5,0.3,
+4,Polymeric,263,Cubic,PLGA,-3,,,(168 h),297.1,1.8,0.3,56
+0,,216,"AR 4.0 Rods","PLGA 20% docetaxel",-3,"Human adenocarcinomic alveolar basal epithelial (A549) s.c. inoculated to right flank of mice","Volume: ~150 mmå_  Mass: ~0.2 g",6,43.2,0.3,0.1,
+1,Polymeric,216,"AR 4.0 Rods","PLGA 9% docetaxel",-3,,,(168 h),60,0.4,0.1,57
+2,,274,,"PEG_2kDa and folic acid",-12,"Metastatic human breast cancer (MDA-MB-231) s.c. inoculated to right flank of mice","Volume: ~180 mmå_  Mass: ~0.2 g",6,0.7,0.1,"<0.1 (1E-2)",
+3,Polymeric,217,Spherical,PLGA,-14,,,(12 h),0.2,"<0.1 (2E-2)","<0.1 (4E-3)",58
+4,,30,,"DACHPt-loaded micelles PEG-b-P(Glu)",-2,"Human pancreatic adenocarcinoma (BxPC3) s.c. inoculated in mice (TGF-ë_ treated)","Volume: ~100 mmå_  Mass: ~0.1 g",3,173.8,7.2,0.9,59
+5,Polymeric,69,Spherical,"copolymer and P(Glu) homopolymer",-1,,,(24 h),138,5.8,0.7,
+0,,30,,,-2,"Murine colon adeno-carcinoma (C-26) s.c. inoculated in mice",,,161.1,6.7,0.8,
+1,,,,,,"Human pancreatic adenocarcinoma (BxPC3) s.c. inoculated in mice",,,197.3,8.2,1,
+2,Polymeric,54,Spherical,"DACHPt-loaded micelles PEG-b-P(Glu) copolymer and P(Glu) homopolymer",-2,"Murine colon adeno-carcinoma (C-26) s.c. inoculated in mice","Volume: ~100 mmå_",4,163.9,6.8,0.8,59
+3,,,,,,"Human pancreatic adenocarcinoma (BxPC3) s.c. inoculated in mice","Mass: ~0.1 g",(24 h),125.5,5.2,0.6,
+4,,69,,,-1,"Murine colon adeno-carcinoma (C-26) s.c. inoculated in mice",,,182,7.6,0.9,
+5,,,,,,"Human pancreatic adenocarcinoma (BxPC3) s.c. inoculated in mice",,,77.8,3.2,0.4,
+0,,110,,,~0,"Murine colon adeno-carcinoma (C-26) s.c. inoculated in mice",,,137.7,5.7,0.7,
+1,,,,,,"Human pancreatic adenocarcinoma (BxPC3) s.c. inoculated in mice",,,76.6,3.2,0.4,
+2,,37,,"PEG_5kDa and TRC105","Not reported","Murine breast cancer (4T1) s.c. inoculated to front flank of mice","Volume: ~180 mmå_  Mass: ~0.2 g""",6,203.6,4.2,0.9,
+3,Polymeric,37,Spherical,PEG_5kDa,"Not reported",,,(48 h),109.8,2.3,0.5,60
+4,,89,,"Crosslinked, PEG_10kDa, and tyrosine",0,"Murine colon adenocarcinoma (C-26) s.c. inoculated to back of mice","Volume: ~100 mmå_  Mass: ~0.1 g""",5,65.2,2.7,0.3,
+5,Polymeric,87,Spherical,"Non-crosslinked, PEG_10kDa, and tyrosine",-1,,,(24 h),41.1,1.7,0.2,61
+0,,64,,PEG,~0,"Human carcinoma (KB) transplanted to abdominal region of mice","Volume: ~100 mmå_  Mass: ~0.1 g",,132.7,5.5,0.6,
+1,,68,,"PEG and 5% folic acid",-1,,,,117.1,4.9,0.5,
+2,Polymeric,69,Spherical,"PEG and 10% folic acid",-2,,,6,143.6,6,0.6,62
+3,,73,,"PEG and 25% folic acid",-2,,,(24 h,135.5,5.6,0.6,
+4,,77,,"PEG and 50% folic acid",-7,,,,155.1,6.5,0.7,
+5,,91,,"PEG and 100% folic acid",-9,,,,147.9,6.2,0.6,
+6,Polymeric,35,Spherical,PEG_12kDa,-2,"Murine colon adenocarcinoma (C-26) s.c. inoculated in mice","Volume: ~167 mmå_  Mass: ~0.2 g","6  (72 h)",591.9,8.2,1.6,63
+0,Polymeric,23,Spherical,"PEG_0.4kDa and cRGD","Not reported (neutral ZP is assumed)","Metastatic mammary clone-66 (Cl-66) inoculated to mammary fat pad of mice","Volume: ~0.625 mmå_  Mass: ~0.8 g","5  (120 h)",717.5,6,4.5,64
+1,Polymeric,35,Spherical,PEG_12kDa,-2,"Murine colon adenocarcinoma (C-26) s.c. inoculated in mice","Volume: ~100 mmå_  Mass: ~0.1 g","7  (48 h)",449.5,9.4,1.1,65
+2,Polymeric,208,Spherical,"PLGA and PbAE (PTX containg)",-27,"Athymic nu/nu female mice Human breast cancer (MCF-7) orthotopically inoculated to mammary fat pad of mice","Volume: ~140 mmå_  Mass:","4  (12 h)",6,0.5,0.1,66
+0,,,,,,"Human breast cancer (MCF-7 ) TRorthotopically inoculated to mammary fat pad of mice",~0.2 g,,3.3,0.3,0.1,
+1,,208,,"PLGA and PbAE (CER) containing",-27,"Human breast cancer (MCF-7) orthotopically inoculated to mammary fat pad of mice",,,22.5,1.9,0.4,
+2,,,,,,"Human breast cancer (MCF-7 ) TRorthotopically inoculated to mammary fat pad of mice",,,11,0.9,0.2,
+3,Polymeric,222,Spherical,"Pyrene-ended poly(DL-lactic acid)","Not reported","Sarcoma-180 s.c. inoculated to axillary region of mice","Volume: ~350 mmå_  Mass: ~0.4 g","4  (48 h)",212.2,4.4,1.9,67
+0,,Not reported,,"PEG_1.5kDa and folic acid","Not reported","Human nasopharyngeal epidermal carcinoma (KB) s.c. inoculated to the nape of the neck of mice","Volume: ~80 mmå_  Mass: ~0.1 g",4,103,4.3,0.4,
+1,Polymeric,20,Spherical,"Poly(acrylic acid)","Not reported",,,(24 h),132.2,5.5,0.6,68
+2,Polymeric,150,Spherical,PLGA,-16,"Ehrlich ascites tumour (EAT) intramuscularly inoculated to thigh of right hind leg of mice","Volume: ~1.0 cmå_  Mass: ~1.2 g","4  (24 h)",19,0.8,1,69
+3,Polymeric,168,Spherical,"RhB-CMCNP-PS",-12,"Murine hepatocellular carcinoma (H22) s.c. inoculated to axillary region of mice","Volume: ~100 mmå_  Mass: ~0.1 g",6,511.6,21.3,2.6,70
+4,,175,,"RhB-CMCNP-PS",-19,,,(24 h),407.5,17,2,
+0,,165,,"RhB-CMCNP-PS",-33,,,,375.5,15.6,1.9,
+1,,514,,"RhB-CMCNP-PS",-21,,,,166.3,6.9,0.8,
+2,,150,,"RhB-CMCNP-CPT",15,,,,93,3.9,0.5,
+3,,151,,"RhB-CMCNP-CPT",26,,,,141.6,5.9,0.7,
+4,,153,,"RhB-CMCNP-CPT",35,,,,188.7,7.9,0.9,
+0,,301,,"RhB-CMCNP-CPT",24,,,,84.8,3.5,0.4,
+1,Polymeric,40,Spherical,"PEG-b-P(Glu) 12-40",-4,"Murine colon adeno-carcinoma (C-26) s.c. inoculated in mice","Volume: ~100 mmå_  Mass: ~0.1 g","6  (72 h)",562.1,7.8,0.9,71
+2,,399,,PEI_25kDa,38,"Ehrlich ascites tumour (EAT) s.c. inoculated to hind left flank of mice","Volume: ~1.8 cmå_  Mass: ~2.1 g",4,6.9,0.3,0.6,
+3,Polymeric,276,Spherical,"Chondroitin sulfate-PEI",16,,,(24 h),36.5,1.5,3.2,72
+4,"Graphene oxide",37,Flake,"NOTA, PEG_5kDa, and TRC105",-2,"Murine breast cancer (4T1) s.c. inoculated to front flank of",Volume:,6,224.4,4.7,1,73
+0,,26,,"NOTA, PEG_5kDa",-16,mice,"~180 mmå_  Mass: ~0.2 g""",(48 h),104.2,2.2,0.5,
+1,,22,,"NOTA, PEG_10kDa",-9,"Murine breast cancer (4T1) s.c. inoculated to front flank of mice","Volume: ~180 mmå_  Mass: ~0.2 g",5,104.2,2.2,0.5,
+2,"Graphene oxide",27,Flake,"NOTA, PEG_10kDa, and TRC105",~0,,,(48 h),200.9,4.2,0.9,74
+3,"Graphene oxide","90 50 x 2 (AFM)",Flake,PEG_4kDa,-30,"Murine melanoma (B16) s.c. inoculated to right arm of mice","Volume: ~200 mmå_  Mass: ~0.2 g","6  (24 h)",224.5,9.4,2.2,75
+4,"Graphene oxide",28,Flake,PEG_5kDa,-10,"Human glioblastoma (U-87MG) s.c. inoculated to flank",Volume:,6,143.1,3,0.2,76
+0,,33,,"PEG_5kDa and VEGEF  121",-5,of mice,"~65 mmå_  Mass: ~0.1 g",(48 h),244.9,5.1,0.4,
+1,,27,,"NOTA-TRC105 antibody",~0,"Murine breast cancer (4T1) s.c. inoculated to front flank of mice","Volume: ~140 mmå_  Mass: ~0.2 g",4,117.9,4.9,0.9,
+2,Graphene,22,Flake,NOTA,-10,,,(24 h),77.4,3.2,0.6,77
+3,"Single-walled carbon nanotubes","200 nm x 3 nm (AFM)",,PEG_2kDa,,"Human glioblastoma (U-87MG) s.c. inoculated to left front legs","Volume: ~250 mmå_  Mass: ~0.3 g",,63.1,2.6,0.8,
+4,,,AR 67,"PEG_2kDa and RGD peptide",Not,,,5,89.7,3.7,1.1,
+5,,,Rods,PEG_5.4kDa,reported,,,(24 h),100.5,4.2,1.3,78
+6,,,,"PEG_5.4kDa and RGD peptide",,,,,290.4,12.1,3.6,
+0,Liposomes,96,Spherical,"DPPC, cholesterol, DSPE-PEG_2kDa, Iohexol, GH680",-60,"Human cervical carcinoma (ME180) orthotopically inoculated in mice","Volume: ~500 mmå_  Mass: ~0.6 g","10  (120 h)",376.8,3.14,1.9,79
+1,Liposomes,79,Spherical,PEG_2kDa,-36,"GEMMs of strain of FVB/n mice carrying a transgene for C3(1)S40 T-antigen (C3-TAg)","Volume: ~80 mmå_  Mass: ~0.1 g",9,400,4.2,0.4,80
+2,,,,,,"Tumours derived from BALB/c TP53-/- transplanted into inguinal mammary fat pad of mice","Volume: ~65 mmå_  Mass: ~0.1 g",(96 h),175,1.8,0.2,
+0,,103,,"PEG_2kDa and CLL",-13,in mice,"~200 mmå_  Mass: ~0.3g",(48 h),81.5,1.7,0.4,
+1,Liposomes,386,Spherical,"Alendronate-hyaluronate graft polymer",20,"Ehrlich ascites tumour (EAT) s.c. inoculated to hind right flank of mice","Volume: ~600 mmå_  Mass: ~0.7 g","3  (24 h)",56.8,2.4,1.7,82
+2,Liposomes,85,Spherical,PEG,1,"Human non-small lung cancer (H292-GT) s.c. inoculated to left hind limb of mice","Volume: ~300 mmå_  Mass: ~0.4 g","4  (48 h)",433,9,3.3,83
+0,Liposomes,120,Spherical,"DSPE-PEG_2kDa","Not reported (neutral ZP is assumed)","Syngeneic MET1 carcinomas transplanted to mammary fat pad of mice","Volume: ~180 mmå_  Mass: ~0.2 g","4  (48 h)",218.8,4.6,1,84
+1,,25,,,-3,"Human embryonic kidney (HEK293(ë_ )) s.c. 3inoculated in mice","Volume: ~116 mmå_  Mass: ~0.1 g""",,33.5,1.4,0.2,
+2,Liposomes,51,Spherical,PEG_0.7kDa,-4,,,3,19.6,0.8,0.1,85
+3,,93,,,-6,,,(24 h),21.7,0.9,0.1,
+4,Liposomes,85,Spherical,PEG_2kDa,~0,"Murine colon adeno-carcinoma (C-26) s.c. inoculated in mice","Volume: ~1.2 cmå_  Mass: ~1.4 g","6  (72 h)",352.9,4.9,6.9,86
+0,,102,,"PEG_2kDa (InVNBL)","Not reported","Murine colon adeno-carcinoma (C-26) s.c. inoculated to right hind flank of mice","Volume: ~100 mmå_  Mass: ~0.1 g",5,1264.8,17.6,2.1,
+1,Liposomes,131,Spherical,"PEG_2kDa (ReDXRL)","Not reported",,,(72h),175,2.4,0.3,87
+2,Liposomes,225,Spherical,"PEG-nido-carborane and transferrin","Not reported","Murine colon adeno-carcinoma (C-26) s.c. inoculated to back of mice","Volume: ~270 mmå_  Mass: ~0.3g",5,204.4,2.8,0.9,88
+3,,168,,"PEG-nido-carborane","Not reported",,,(72 h),115.5,1.6,0.5,
+4,Liposomes,90,,"DSPE-PEG_2kDa",Not,"Human breast cancer (BT-474) s.c. inoculated to upper back of mice","Volume: ~450 mmå_  Mass: ~0.5 g",9,440.9,2.6,1.4,
+5,,,Spherical,"DSPE-PEG_2kDa and Anti-HER Mab fragments",reported,,,(168 h),477.6,2.8,1.5,89
+0,Liposomes,118,Spherical,"DSPE-PEG_2kDa","Not reported (neutral ZP is assumed)","Murine colon adeno-carcinoma (C-26) s.c. inoculated to back of mice","Volume: ~20 mmå_ per tumour (3 tumours per mouse)  Mass: ~0.1 g (total tumour mass)","7  (24 h)",181.3,7.6,0.5,90
+1,Liposomes,200,Spherical,PEG_2kDa,-2,"Anaplastic thyroid carcinoma (ARO) s.c. inoculated to flank of mice","Volume: ~520 mmå_  Mass: ~0.6 g","5  (24 h)",35.7,1.5,0.9,91
+0,Liposomes,100,Spherical,PEG,"Not reported (neutral ZP is assumed)","Human melanoma (A375) s.c. inoculated to right flank of mice","Volume: ~1.3 cmå_  Mass: ~1.5 g","11  (72 h)",79.2,0.5,0.7,92
+1,Liposomes,113,Spherical,PEG,~0,"Murine colon adeno-carcinoma (C-26) intraperitoneally inoculated in mice (*)","Volume: ~120 mmå_  Mass: ~0.1 g","7  (96 h)",136.6,1.4,0.2,93
+2,Liposomes,130,Spherical,PEG_4kDa,"Not reported (neutral ZP is assumed)","Colon adeno-carcinoma (CT26) inoculated in mice","Volume: ~100 mmå_  Mass: ~0.1 g","6  (24 h)",32.4,1.4,0.2,94
+0,,85,,PEG_2kDa,~0,"Human colorectal adenocarcinoma s.c. inoculated to right hind flank of mice","Volume: ~75 mmå_  Mass: ~0.1",6,258.5,3.6,0.3,
+1,Liposomes,100,Spherical,,,,,(72 h),179.9,2.5,0.2,95
+2,Liposomes,107,Spherical,PEG_2kDa,~0,"Murine colon adeno-carcinoma (C-26) s.c. inoculated to right hind flank of mice","Volume ~75 mmå_  Mass: ~0.1 g","5  (72 h)",293.3,4.1,0.4,96
+3,Liposomes,74,Spherical,PEG_2kDa,~0,"Murine colon adeno-carcinoma (C-26) s.c. inoculated to right hind flank of mice","Volume: ~750 mmå_  Mass: ~0.9 g","5  (72 h)",195,2.7,2.4,97
+0,,201,,"Hyaluronic acid and HP-ë_-cyclodextrin",-14,"Murine breast cancer (4T1) s.c. inoculated to right flank of mice","Volume: ~125mmå_  Mass: ~0.2 g",,18.9,0.8,0.1,
+1,Hyaluronic,217,,"PEG_5kDa; 2 PEG per 100 sugar repeat units of hyaluronic acid",-14,,,4,19.7,0.8,0.1,98
+2,hydrogel,226,Spherical,"PEG_5kDa; 5 PEG per 100 sugar repeat units of hyaluronic acid",-13,,,(24 h),31.5,1.3,0.2,
+3,,242,,"PEG_5kDa; 10 PEG per 100 sugar repeat units of hyaluronic acid",-11,,,,24,1,0.2,
+0,"Hyaluronic acid hydrogel",50,Spherical,"Hyaluronic acid modified with methacrylic anhydride",-45,"Murine hepatocellular carcinoma (H22) s.c. inoculated to left flank of mice","Volume: ~50 mmå_  Mass: ~0.1 g","7  (72 h)",149.8,2.1,0.1,99
+1,"Heparin-based hydrogel",80,Spherical,"Methacrylated heparin copolymerized with cystamine bisacrylamide",-30,"Murine hepatocellular carcinoma (H22) s.c. inoculated to armpit of mice","Volume: ~50 mmå_  Mass: ~0.1 g","4  (24 h)",176.3,7.4,0.4,100
+2,,154,,Chitosan,9,"Murine hepatocellular carcinoma (H22) s.c. inoculated to right limb of mice","Volume: ~200 mmå_  Mass: ~0.2 g",6,123.2,2.6,0.6,
+3,"Chitosan hydrogel",133,Spherical,"Chitosan and Bj-BPP-9a peptide",9,,,(48 h),145.8,3,0.7,101
+0,"Hyaluronic acid hydrogel",200,Spherical,"Hyaluronic acid",-15,"Human non-small cell lung cancer (A549DDP) s.c. inoculated to right shoulder of mice","Volume: ~200 mmå_  Mass: ~0.2 g","3  (24 h)",14.4,0.6,0.1,102
+1,,133,,Thiolated,-25,"Human pancreatic carcinoma (PANC-1) s.c. inoculated in mice","Volume: ~150 mmå_  Mass: ~0.2 g",6,138.1,5.8,1,
+2,"Gelatin hydrogel",179,Spherical,PEG_2kDa,-22,,,(24 h),187.4,7.8,1.4,103
+3,,231,,"PEG_2kDa and EGFR peptide",-18,,,,322.3,13.4,2.4,
+4,"Alginic acid hydrogel",132,Spherical,Alginic acid,-35,"Murine hepatocellular carcinoma (H22) s.c. inoculated to right limb armpit of mice","Volume: ~150 mmå_  Mass: ~0.2 g","6  (72 h)",275,3.8,0.7,104
+0,,230,,Gelatin,-8,"Human melanoma (MDA-MB-435) inoculated in mice","Volume: ~100 mmå_  Mass: ~0.1 g",,204.2,4.3,0.4,
+1,Gelatin,329,,PEG_2kDa,-8,,,7,668.3,13.9,1.4,
+2,hydrogel,244,Spherical,"Thiolated gelatin",-9,,,(48 h),495.4,10.3,1,105
+3,,302,,"PEG_2kDa thiolated Gelatin",-7,,,,642.8,13.4,1.3,
+4,"Cellulose hydrogel",193,Spherical,"Methacrylated carboxymethyl cellulose and cystamine bisacrylamide",-26,"Murine hepatocellular carcinoma (H22) s.c. inoculated to left flank of mice","Volume: ~100 mmå_  Mass: ~0.1 g","7  (72 h)",141,2,0.2,106
+5,Dendrimers,8,Spherical,"PAMAM-OH dendrimer",-1,"Human ovarian carcinoma (A2780) orthotopically",Volume:,6,784.8,4.7,9.8,107
+0,,7,,"HPMA copolymer",-1,"inoculated beneath left ovarian bursa of mice","~1.75 cmå_  Mass: ~2.1 g",(168 h),44.9,0.3,0.6,
+1,,6,,Lysine,20,"Murine colon adeno-carcinoma (C-26) s.c. inoculated to back of mice","Volume: ~100 mmå_  Mass: ~0.1 g",6,53.6,2.2,0.3,
+2,Dendrimers,17,Spherical,PEG_5kDa,-7,,,(24 h),273.4,11.4,1.4,108
+3,,Not reported,,PAMAM,"Not reported","Human carcinoma (KB) s.c. inoculated to flank of mice","Volume: ~900 mmå_  Mass: ~1.1 g",3,178.2,1.9,2,
+4,Dendrimers,Not reported,Spherical,"PAMAM and folic acid","Not reported",,,(96 h),665.2,6.9,7.5,109
+0,Dendrimers,4,Spherical,"Hydroxyl-functionalized PAMAM",5,"Gliosarcoma (9L) intracranially implanted in rats","Volume: ~110 mmå_  Mass: ~0.1 g","6  (48 h)",4.6,0.1,"<0.1 (1E-2)",110
+1,"Dendrimer-entrapped gold nanoparticles",72,Spherical,"PEG_2kDa-RGD-peptide",6,"Human glioblastoma (U-87MG) s.c. inoculated to right side of oxters of mice","Volume: ~46 mmå_  Mass: ~0.1 g","3  (120 h)",105,0.9,0.1,111
+2,,5,,"Amine-terminated PAMAM",Positive,"Murine skin melanoma (B16-F10) s.c. inoculated to dorsal surface of mice","Volume: ~500 mmå_  Mass: ~0.6 g",4,475.4,5,3,
+3,"Metal-dendrimer composite nanomaterials",5,Spherical,"Carboxy-terminated PAMAM",Negative,,,(96 h),289.6,3,1.8,112
+4,,5,,"Acetylated PAMAM",Neutral,,,,279.5,2.9,1.8,
+0,,11,,"Carboxy-terminated PAMAM",Negative,,,,44.6,0.5,0.3,
+1,"Tabacco mosaic virus","95 300 x 18 (TEM)","AR 16.7 Rods",PEG_8kDa,-36,"Human glioblastoma (U-87MG) s.c. inoculated to upper flank of mice","Volume: ~200 mmå_  Mass: ~0.2 g","3  (72 h)",15.2,0.2,0.1,113
+2,"HPMA copolymer",16,Spherical,HPMA,-19,"Human ovarian cancer (A2780) orthotopically inoculated to left ovarian bursa of mice","Volume: ~1.75 cmå_  Mass: ~2.1 g","6  (168 h)",291.1,1.7,3.6,114
+3,"PEGylated 10-",185,"AR 1.3 Rods","Poly(maleic anhydride-alt-1-octadecene)-",-12,,,5,691,28.8,3.5,115
+0,,364,"AR 3.2 Rods",,-13,,~0.1 g,,474.2,19.8,2.4,
+1,,455,"AR 4.0 Rods",,-14,,,,412.3,17.2,2.1,
+2,,86,,"DOPE, cholesterol, DC-cholesterol",71,"Lung cancer (H1975) s.c. inoculated to flank region of mice","Volume: ~75 mmå_  Mass: ~0.1 g",,38,1.6,0.1,
+3,"Solid lipid nanoparticles",135,Spherical,PEG_5kDa,1,,,"3  (24 h)",98.4,4.1,0.4,116
+4,,160,,"PEG_5kDa and cetuximab",-1,,,,102.2,4.3,0.4,
+5,"Solid lipid nanoparticles",387,Spherical,Tripalmitin,-47,"Dalton‰Ûªs lymphoma cells s.c. inoculated to thigh of right hind leg of mice","Volume: ~900 mmå_  Mass: ~1.1 g","3  (24 h)",1.1,"<0.1 (4E-2)","<0.1 (5E-2)",117
